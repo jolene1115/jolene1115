@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 software engineering + business information management @ uc irvine
+
+currently learning, building, and exploring tech.
+
+[linkedin](https://www.linkedin.com/in/jolene-k/)
