@@ -1,4 +1,4 @@
-## hi, i'm jolene! 🧸
+## hello there! 🧸
 
 <!--
 **jolene1115/jolene1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
