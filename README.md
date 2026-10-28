@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-software engineering + business information management @ uc irvine
+software engineering + business information management student @ uc irvine
 
 currently learning, building, and exploring tech :D
